@@ -1,0 +1,11 @@
+To run the backend, change into the `backend` directory and run it with sbt:
+
+cd backend/
+sbt run
+
+
+To run the frontend, change into the `titlebot/` directory, and build it, then run it with npm.
+
+cd titlebot/
+npm ci
+npm run dev

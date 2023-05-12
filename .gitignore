@@ -1,0 +1,3 @@
+backend/**/target
+backend/project/project
+titlebot/node_modules
